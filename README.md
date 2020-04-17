@@ -39,7 +39,7 @@ An region_id is required to update the data. The library uses the region_ids fro
 If an greater region (id ending with 0) is used, all sub-regions will be aggregated using an maximum function. The parameter 0 will parse all regions of germany.
 
 ## License and credits
-Copyright (c) 2018 Chris Klinger. Licensed under MIT license, see  [LICENSE](https://github.com/c-klinger/esp8266-arduino-wifirgb/blob/master/LICENSE.md) for the full license.
+Copyright (c) 2018 Chris Klinger. Licensed under MIT license, see  [LICENSE](https://github.com/c-klinger/DWDOpenDataPollenflugGefahrenindex/blob/master/LICENSE.md) for the full license.
 
 DWDOpenDataPollenflugGefahrenindex uses the following libraries and frameworks, which have their own licenses:
 
@@ -49,4 +49,4 @@ DWDOpenDataPollenflugGefahrenindex uses the following libraries and frameworks, 
 Do you like this library? I would appreciate if you star this project on GitHub! 
 
 ## Issues and support
-See <https://github.com/c-klinger/esp8266-arduino-wifirgb/issues>.
+See <https://github.com/c-klinger/DWDOpenDataPollenflugGefahrenindex/issues>.
