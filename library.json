@@ -1,0 +1,30 @@
+{
+    "name": "DWDOpenDataPollenflugGefahrenindex",
+    "keywords": "dwd, api, opendata, pollen, allergies",
+    "description": "ESP8266 library for parsing OpenData information from Deutscher Wetterdienst (DWD) what different pollen types spreads through the air.",
+    "license": "MIT",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/c-klinger/DWDOpenDataPollenflugGefahrenindex.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Chris Klinger",
+        "url": "http://www.chrisklinger.de",
+        "maintainer": true
+      }
+    ],
+    "dependencies": [
+      {
+        "name": "ArduinoJson",
+        "authors": " Benoit Blanchon",
+        "frameworks": "arduino"
+      }
+    ],
+    "version": "1.0.0",
+    "frameworks": "arduino",
+    "platforms": "espressif8266"
+  }
+  
